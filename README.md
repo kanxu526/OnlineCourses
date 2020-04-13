@@ -12,6 +12,17 @@ Convex Optimization
 Statistical Learning Theory
 * [Stanford Statistical Learning Theory CS229T/STATS231](http://web.stanford.edu/class/cs229t/) by Tengyu Ma (Autumn 2018-2019)
 
+High Dimension
+* [Princeton Mathematics of High-Dimensional Data ELE538](http://www.princeton.edu/~yc5/ele538_math_data/lectures.html) by Yuxin Chen (Fall 2018)
+
 ## Reinforcement Learning
+
+Bandit 
+* [Berkeley Learning in Sequential Decision Problems CS294/Stat260](https://www.stat.berkeley.edu/~bartlett/courses/2014fall-cs294stat260/) by Peter Bartlett (Fall 2014)
+
+DP and Stochastic Control
+* [MIT Dynamic Programming and Stochastic Control 6.231](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-231-dynamic-programming-and-stochastic-control-fall-2015/index.htm) by Dimitri Bertsekas (Fall 2015, video)
+* [Stanford Stochastic Control EE365](https://stanford.edu/class/ee365/index.html) by Sanjay Lall (Spring 2014)
+
 Deep RL
 * [Berkeley Deep Reinforcement Learning CS294](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/index.html#lecture-videos) (Fall 2017, video)

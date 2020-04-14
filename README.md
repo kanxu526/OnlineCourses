@@ -24,5 +24,8 @@ DP and Stochastic Control
 * [MIT Dynamic Programming and Stochastic Control 6.231](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-231-dynamic-programming-and-stochastic-control-fall-2015/index.htm) by Dimitri Bertsekas (Fall 2015, video)
 * [Stanford Stochastic Control EE365](https://stanford.edu/class/ee365/index.html) by Sanjay Lall (Spring 2014)
 
+RL
+* [Stanford Reinforcement Learning CS234](http://web.stanford.edu/class/cs234/index.html) by (Winter 2020, [video](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u))
+
 Deep RL
 * [Berkeley Deep Reinforcement Learning CS294](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/index.html#lecture-videos) (Fall 2017, video)

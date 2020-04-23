@@ -19,6 +19,8 @@ High Dimension
 
 Bandit 
 * [Berkeley Learning in Sequential Decision Problems CS294/Stat260](https://www.stat.berkeley.edu/~bartlett/courses/2014fall-cs294stat260/) by Peter Bartlett (Fall 2014)
+* [UMD Advanced Topics in Theory of Computing: Bandits, Experts, and Games CMSC 858G](http://www.cs.umd.edu/~slivkins/CMSC858G-fall16/) by Alex Slivkins (Fall 2016)
+* [Columbia Bandits and Reinforcement Learning COMS E6998.001](http://alekhagarwal.net/bandits_and_rl/index.html) by Alekh Agarwal and Alex Slivkins (Fall 2017)
 
 DP and Stochastic Control
 * [MIT Dynamic Programming and Stochastic Control 6.231](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-231-dynamic-programming-and-stochastic-control-fall-2015/index.htm) by Dimitri Bertsekas (Fall 2015, video)

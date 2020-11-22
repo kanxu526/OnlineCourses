@@ -27,7 +27,8 @@ DP and Stochastic Control
 * [Stanford Stochastic Control EE365](https://stanford.edu/class/ee365/index.html) by Sanjay Lall (Spring 2014)
 
 RL
-* [Stanford Reinforcement Learning CS234](http://web.stanford.edu/class/cs234/index.html) by (Winter 2020, [video](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u))
+* [UIUC Statistical Reinforcement Learning CS598](http://nanjiang.cs.illinois.edu/cs598/) by Nan Jiang (Fall 2020)
+* [Stanford Reinforcement Learning CS234](http://web.stanford.edu/class/cs234/index.html) (Winter 2020, [video](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u))
 * [Arizona State University Reinforcement Learning And Optimal Control](http://web.mit.edu/dimitrib/www/RLbook.html) by Dimitri Bertsekas (Spring 2019, video)
 
 Deep RL

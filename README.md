@@ -11,6 +11,7 @@ Convex Optimization
 
 Statistical Learning Theory
 * [Stanford Statistical Learning Theory CS229T/STATS231](http://web.stanford.edu/class/cs229t/) by Tengyu Ma (Autumn 2018-2019)
+* [CMU Advanced Introduction to Machine Learning 10-715](http://www.cs.cmu.edu/~10715-f18/) by Maria-Florina Balcan (Fall 2018)
 
 High Dimension
 * [Princeton Mathematics of High-Dimensional Data ELE538](http://www.princeton.edu/~yc5/ele538_math_data/lectures.html) by Yuxin Chen (Fall 2018)

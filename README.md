@@ -1,4 +1,4 @@
-# Online-Courses
+# OnlineCourses
 A collection of online courses related to machine learning, finance, economics, statistics.
 
 ## Machine Learning
